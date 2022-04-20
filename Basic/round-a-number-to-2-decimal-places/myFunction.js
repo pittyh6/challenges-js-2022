@@ -2,7 +2,9 @@
 // Round a to the 2nd digit after the comma
 // Return the rounded number
 function myFunction(a){
-    console.log(Math.round((a + Number.EPSILON) * 100) / 100)    
+    console.log(Math.round((a + Number.EPSILON) * 100) / 100)   
+    //Number(a.toFixed(2)) 
+    
 }
 
 myFunction(2.12397)
