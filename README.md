@@ -1,5 +1,5 @@
 # CHALLENGES - JAVASCRIPT - DIFFERENT LEVELS.....
-## JavaScript challengesssss.
+## 2022 - JavaScript challengesssss.
 
 ![Begin Banner](Documentation/top-1200x350.gif)
 
@@ -13,7 +13,7 @@
 * JS - Sets
 
 ## Management Tools
-* Jira(Sprints) [link]()
+* Jira(Sprints) [link](https://github.com/pittyh6/challenges-js-2022/tree/master/Sprint)
 ### Result
 * Desktop
 ![Middle Banner](Documentation/Under_Development.gif)
