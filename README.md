@@ -14,10 +14,6 @@
 
 ## Management Tools
 * Jira(Sprints) [link](https://github.com/pittyh6/challenges-js-2022/tree/master/Sprint)
-### Result
-* Desktop
-![Middle Banner](Documentation/Under_Development.gif)
-
 
 ## Tools
 <img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100">
