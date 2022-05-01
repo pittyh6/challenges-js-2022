@@ -9,6 +9,3 @@
 ## On this sprint
 * Practicing javascript by doing as many as possible challenges in different levels and learning better development practices.
 
-## What I have done
-![Begin Banner](.png)
-
