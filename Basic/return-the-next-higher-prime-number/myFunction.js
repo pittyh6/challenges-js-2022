@@ -20,11 +20,13 @@ function myFunction(a){
   let root = Math.ceil(Math.sqrt(a))
   for(let i = 2; i <=root; i++){
     if(a % i === 0){
-      for(let count = a+1; resultCount !== true; count++){
+      for(const count = a+1; resultCount !== true; count++){
         myFunction(count)
         resultCount = true
-        return count
+        a = count
+        return count        
       }
+      return a
     }
   }
   
