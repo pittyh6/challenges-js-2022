@@ -2,7 +2,7 @@
 
 # Jira Sprints
 * April  - ![Begin Banner](/Sprint/April/April.png) 
-* May  - ![Begin Banner](/Sprint/April/May.png) 
+* May  - ![Begin Banner](/Sprint/May/may.png) 
 
 ## Third Sprint
 * Start 01/04/2022  
