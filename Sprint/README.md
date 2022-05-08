@@ -1,8 +1,8 @@
 
 
 # Jira Sprints
-* April  - [link](https://github.com/pittyh6/challenges-js-2022/tree/master/Sprint/April)
-* May (1st) - [link](https://github.com/pittyh6/challenges-js-2022/tree/master/Sprint/May)
+* April  - [link](https://github.com/pittyh6/challenges-js-2022/blob/master/Sprint/April/April.png)
+* May (1st) - [link](https://github.com/pittyh6/challenges-js-2022/blob/master/Sprint/May/may.png)
 
 ## April & 1st week of May = end Project
 * Start 01/04/2022  
