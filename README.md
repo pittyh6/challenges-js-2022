@@ -5,7 +5,7 @@
 
 * Practicing javascript by doing as many as possible challenges in different levels and learning better development practices.
 
-## Project
+## Projects
 * JS - Basic [link](https://github.com/pittyh6/challenges-js-2022/tree/master/Basic)
 * JS - Array [link](https://github.com/pittyh6/challenges-js-2022/tree/master/Arrays)
 * JS - Objects
