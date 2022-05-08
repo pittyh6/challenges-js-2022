@@ -7,7 +7,7 @@
 
 ## Project
 * JS - Basic [link](https://github.com/pittyh6/challenges-js-2022/tree/master/Basic)
-* JS - Array
+* JS - Array [link](https://github.com/pittyh6/challenges-js-2022/tree/master/Arrays)
 * JS - Objects
 * JS - Dates
 * JS - Sets
