@@ -31,8 +31,10 @@ function myFunction2(arr){
 
 function myFunction(arr){
     let result = (currentValue) => currentValue === arr[0]
-    console.log( "result = " + arr.every(result))
+    console.log( "result = " + arr.every(result)) 
     return arr.every(result)
+    //The every() method tests whether all elements in the array pass the test implemented by the provided function. 
+    //It returns a Boolean value.
 }
 
 myFunction([true, true, true, true])
